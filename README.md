@@ -14,7 +14,9 @@ python runner.py "
       +---+
 "
 ```
-Note that some command lines do not support multiline arguments, for example on Windows use PowerShell instead of cmd.
+Note that some command lines do not support multiline arguments, for example on Windows use PowerShell instead of cmd.  
+
+In case you'd rather not run anything and only look at github, CI was added to run all tests.
 
 
 # [Software Sauna](https://www.softwaresauna.com/) Code Challenge
