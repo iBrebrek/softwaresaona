@@ -1,4 +1,4 @@
-from saona.main import traverse
+from saona import traverse
 
 
 def test_joined_fork():

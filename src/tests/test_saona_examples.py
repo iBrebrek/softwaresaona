@@ -1,6 +1,6 @@
 import pytest
 
-from saona.main import traverse
+from saona import traverse
 from saona.util import PathError
 
 
