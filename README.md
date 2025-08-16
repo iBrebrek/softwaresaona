@@ -5,13 +5,15 @@ This is a solution to the code challenge described below the intro.
 To run the solution, use the script `runner.py`.    
 It takes an argument which represents a 2D array (you can just copy paste path examples from challenge description below).    
 For example:     
-> python runner.py "
->  @---A---+
->          |
->  x-B-+   C
->      |   |
->      +---+
->"
+```
+python runner.py "
+  @---A---+
+          |
+  x-B-+   C
+      |   |
+      +---+
+"
+```
 Note that some command lines do not support multiline arguments, for example on Windows use PowerShell instead of cmd.
 
 
